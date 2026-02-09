@@ -8,7 +8,7 @@
 
 :root {
   /* ÚNICO LUGAR PARA MUDAR A COR DO SITE TODO */
-  --primary: ##F5822D; 
+  --primary: #F5822D; 
   --mid: #2b2b2b; 
 
   background-color: #442604;
