@@ -6,7 +6,7 @@ export const whatsappNumber = "5551984921773"
 
 export default function Contact() {
 
-  const instagramUser = "dvargasbarber" 
+  const instagramUser = "barbeariacouper" 
   const address = "R. Cel. Fonseca, 984 - Centro, Gravataí - RS"
   const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`
 
