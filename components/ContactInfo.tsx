@@ -2,12 +2,12 @@
 import { FaWhatsapp, FaInstagram, FaMapMarkerAlt, FaClock } from 'react-icons/fa'
 import { BUSINESS_HOURS } from '@/src/config/business-hours'
 
-export const whatsappNumber = "5551992308146"
+export const whatsappNumber = "5551984921773"
 
 export default function Contact() {
 
   const instagramUser = "dvargasbarber" 
-  const address = "R. Nestor de Moura Jardim, 475 - Salgado Filho - Gravataí - RS"
+  const address = "R. Cel. Fonseca, 984 - Centro, Gravataí - RS"
   const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`
 
   return (
@@ -38,7 +38,7 @@ export default function Contact() {
                 </div>
                 <div className="ml-6">
                   <p className="text-xs uppercase tracking-widest text-zinc-500 font-bold">WhatsApp</p>
-                  <p className="text-xl font-bold group-hover:text-primary transition-colors">(51) 98058-3680</p>
+                  <p className="text-xl font-bold group-hover:text-primary transition-colors">(51) 98492-1773</p>
                 </div>
               </a>
 
